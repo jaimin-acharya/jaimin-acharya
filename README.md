@@ -7,7 +7,7 @@ Improving cloud-based solutions and implementing microservices architecture.
 Fullstack projects
 
 🌱 **Currently Learning:**  
-NEXT.JS - Typescript and GraphQL
+NEXT.JS - Typescript and THREE.JS
 
 💬 **Ask Me About:**  
 JavaScript, React, Next.js, Node.js, AWS, and general software development
