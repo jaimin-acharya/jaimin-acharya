@@ -12,18 +12,6 @@ NEXT.JS - Typescript and THREE.JS
 💬 **Ask Me About:**  
 JavaScript, React, Next.js, Node.js, AWS, and general software development
 
-⚡ **Fun Fact:**  
-I love creating content.
-
----
-
-## 🌐 Connect with Me
-
-[![Twitter](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://x.com/JaiminAcha3064)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jaiminacharya9/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimin-acharya-40774b295/)
-
-
 ---
 
 # 💻 Tech Stack
@@ -57,4 +45,12 @@ I love creating content.
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
+
+---
+
+## 🌐 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://x.com/JaiminAcha3064)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jaiminacharya9/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimin-acharya-40774b295/)
 
