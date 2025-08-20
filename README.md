@@ -10,7 +10,7 @@ Fullstack projects
 NEXT.JS - Typescript
 
 💬 **Ask Me About:**  
-JavaScript, React, Next.js, Node.js, AWS, and general software development
+JavaScript, React, Next.js, Node.js, and general software development
 
 ---
 
