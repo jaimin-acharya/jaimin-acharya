@@ -62,9 +62,13 @@ JavaScript, React, Next.js, Node.js, AWS, and general software development
 ![Claude](https://img.shields.io/badge/Claude-%23663399.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![v0](https://img.shields.io/badge/v0-%23000000.svg?style=for-the-badge&logo=v0&logoColor=white)
 
-## 🌐 Connect with Me
+## 🌍 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://x.com/JaiminAcha3064)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jaiminacharya9/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimin-acharya-40774b295/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jaiminacharya.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimin-acharya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimin-acharya-40774b295/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JaiminAcha3064)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiminacharya9@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaiminacharya9/)
+
 
